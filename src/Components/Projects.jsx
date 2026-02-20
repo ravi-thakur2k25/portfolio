@@ -4,7 +4,7 @@ import { projectData } from './Dataofprojects'
 
 const Projects = () => {
 
-  const[project,setProject]=useState(projectData)
+  const[project]=useState(projectData)
 
   return (
     <>

@@ -4,7 +4,7 @@ import { aboutData } from './Dataofabout'
 
 const About = () => {
 
-const[about,setAbout]=useState(aboutData)
+const[about]=useState(aboutData)
 
     return (
         <>
