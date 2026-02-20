@@ -1,0 +1,43 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card-right img{
+    height: 20rem;
+    width: 20rem;
+    border-radius: 50%;
+  border: 2px solid black;
+
+}
+.button-profile{
+    display: flex;
+    gap: 20px;
+}
+.button-profile button{
+    height:2rem;
+    width: 10rem;
+    border: none;
+}
+.card-left p{
+    line-height: 28px;
+    margin-top: 1rem;
+
+}
+.card-left h5{
+    line-height: 30px;
+}
+
+.home-box{
+    height: 100%;
+    margin-top: 5rem;
+}
+/* .home-row{
+    height: 100%;
+    display: block;
+    margin: auto;
+} */

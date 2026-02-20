@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.contact-box{
+    margin: auto;
+    text-align: center;
+}
+.contact-submit{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 8rem;
+    height: 2rem;
+    border-radius: 10px;
+    border: none;
+
+    color: white;
+    background:linear-gradient( 47deg ,rgb(232, 2, 159), rgb(51, 0, 255));
+    
+}
+.contact-submit:hover{
+
+    filter: drop-shadow(0 0 10px #03def6);
+}
+form{
+    height: 25rem;
+}
+.form-control{
+    border: 1px solid black;
+}

@@ -1,0 +1,17 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.project-card{
+    
+    height: 12rem;
+    text-align: start;
+    padding: 10px;
+    border: 1px solid black;
+}
+.project-box{
+    margin: auto;
+    text-align: center;
+}
