@@ -3,7 +3,7 @@
         "id":1,    
         "icons":"https://cdn-icons-png.flaticon.com/128/3573/3573187.png",
         "heading":"Languages",
-        "discription":"HTML5,CSS3,Javascript,React.js etc"
+        "discription":"HTML5,CSS3,Javascript,React.js,Node.js,Mongodb,Express etc"
     },
     {
         "id":2,    

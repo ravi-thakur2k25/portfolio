@@ -2,7 +2,7 @@
     {
         "id":1,    
         "icons":"Front-end",
-        "heading":"You Tube lone",
+        "heading":"You Tube Clone",
         "discription":"HTML5,CSS3"
     },
     {
@@ -13,14 +13,14 @@
     },
     {
         "id":3,    
-        "icons":"Front-end",
+        "icons":"MERN Stack",
         "heading":"E-commerce Website",
-        "discription":"HTML5,CSS3,JavaScript,Reacts.js,Redux,Bootstrap"
+        "discription":"HTML5,CSS3,JavaScript,Reacts.js,Redux,Bootstrap,Node.js,Mongodb,Express"
     } ,
     {
         "id":4,    
-        "icons":"Graphic designing",
-        "heading":"Magazine",
-        "discription":"Stroke,Marquee,Shadow etc"
+        "icons":"MERN Stack",
+        "heading":"Hotel-Booking Website",
+        "discription":"HTML5,CSS3,JavaScript,Reacts.js,Redux,Bootstrap,Node.js,Mongodb,Express"
     } 
 ]

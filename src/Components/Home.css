@@ -36,8 +36,14 @@ html{
     height: 100%;
     margin-top: 5rem;
 }
-/* .home-row{
-    height: 100%;
-    display: block;
-    margin: auto;
-} */
+button a{
+    text-decoration: none;
+    color: black;
+}
+button:hover{
+color: white;
+ background:linear-gradient( 47deg ,rgb(232, 2, 159), rgb(51, 0, 255));
+}
+a:hover{
+    color: white;
+}

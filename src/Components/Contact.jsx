@@ -10,7 +10,7 @@ const Contact = () => {
   //   toast.success("All is fine")
 
   // }
-// 
+  // 
   const onSubmit = async (event) => {
     event.preventDefault();
     toast.success("Form Submitted Successfully")
@@ -28,16 +28,13 @@ const Contact = () => {
 
     if (data.success) {
       event.target.reset();
-      
+
     } else {
       console.log("Error", data);
     }
   };
 
-
   return (
-
-
 
     <>
       <div id='contact' className="container mt-5">
@@ -51,11 +48,8 @@ const Contact = () => {
               className="form-control"
               id="firstName"
               required
-
-
             />
           </div>
-
           <div className="mb-3">
             <label htmlFor="email" className="form-label">Email address</label>
             <input
@@ -63,8 +57,6 @@ const Contact = () => {
               className="form-control"
               id="email"
               required
-
-
             />
           </div>
 
@@ -84,8 +76,6 @@ const Contact = () => {
         </form>
       </div>
     </>
-
-
   )
 }
 
