@@ -44,6 +44,6 @@ button:hover{
 color: white;
  background:linear-gradient( 47deg ,rgb(232, 2, 159), rgb(51, 0, 255));
 }
-a:hover{
+button a:hover{
     color: white;
 }
