@@ -2,6 +2,7 @@ import React, { useState } from 'react'
 import './Home.css'
 import { FaMoon } from "react-icons/fa";
 import { IoSunnySharp } from "react-icons/io5";
+import image from '../assets/image.jpeg'
 import AnchorLink from 'react-anchor-link-smooth-scroll'
 
 
@@ -32,7 +33,7 @@ const[color,setcolor]=useState(false)
    {color ? <IoSunnySharp color="yellow"/>: <FaMoon color='black'/> }
    </div>
     
-  <img src="/image.jpeg" className="card-img-top img-fluid d-block mx-auto" alt="image of" style={{maxHeight:"400px",objectFit:"cover"}}/>
+  <img src={image} className="card-img-top img-fluid d-block mx-auto" alt="image of" style={{maxHeight:"400px",objectFit:"cover"}}/>
  
 </div>
             </div>
