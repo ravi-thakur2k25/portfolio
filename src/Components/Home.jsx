@@ -48,7 +48,7 @@ const[color,setcolor]=useState(false)
                        <div className="button-profile">
 
                        <button className='rounded-5 mt-2 fw-bold'> <AnchorLink className='anchor-link' offset={50} href='#contact'> Contact</AnchorLink></button>
-                       <button className='rounded-5 mt-2 fw-bold'><a href="./ravi resume.pdf" download="resume">Resume</a></button>
+                       <button className='rounded-5 mt-2 fw-bold'><a href="/Resume.pdf" download>Resume</a></button>
 
                        </div>
 
